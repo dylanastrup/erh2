@@ -1,0 +1,317 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:BookSection rdf:about="urn:isbn:978-0-12-823034-3">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-12-823034-3</dc:identifier>
+                <dc:title>Nanoscale Graphitic Carbon Nitride</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Elsevier</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murali</foaf:surname>
+                        <foaf:givenName>Adhigan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sakar</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Priya</foaf:surname>
+                        <foaf:givenName>Sahariya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bensingh</foaf:surname>
+                        <foaf:givenName>R. Joseph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kader</foaf:surname>
+                        <foaf:givenName>M. Abdul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6"/>
+        <dc:title>Graphitic-Carbon Nitride for Hydrogen Storage</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/B9780128230343000170</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-09-16 20:34:34</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1016/B978-0-12-823034-3.00017-0</dc:description>
+        <bib:pages>487-514</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/Murali et al. - 2022 - Graphitic-Carbon Nitride for Hydrogen Storage.pdf"/>
+        <dc:title>Murali et al. - 2022 - Graphitic-Carbon Nitride for Hydrogen Storage.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0360128516300260">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:03601285"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sapountzi</foaf:surname>
+                        <foaf:givenName>Foteini M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gracia</foaf:surname>
+                        <foaf:givenName>Jose M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weststrate</foaf:surname>
+                        <foaf:givenName>C.J. (Kees-Jan)</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fredriksson</foaf:surname>
+                        <foaf:givenName>Hans O.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niemantsverdriet</foaf:surname>
+                        <foaf:givenName>J.W. (Hans)</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>Electrocatalysts for the generation of hydrogen, oxygen and synthesis gas</dc:title>
+        <dcterms:abstract>Water electrolysis is the most promising method for eﬃcient production of high purity hydrogen (and oxygen), while the required power input for the electrolysis process can be provided by renewable sources (e.g. solar or wind). The thus produced hydrogen can be used either directly as a fuel or as a reducing agent in chemical processes, such as in Fischer–Tropsch synthesis. Water splitting can be realized both at low temperatures (typically below 100 °C) and at high temperatures (steam water electrolysis at 500–1000 °C), while different ionic agents can be electrochemically transferred during the electrolysis process (OH−, H+, O2−). Singular requirements apply in each of the electrolysis technologies (alkaline, polymer electrolyte membrane and solid oxide electrolysis) for ensuring high electrocatalytic activity and long-term stability. The aim of the present article is to provide a brief overview on the effect of the nature and structure of the catalyst–electrode materials on the electrolyzer’s performance. Past ﬁndings and recent progress in the development of eﬃcient anode and cathode materials appropriate for large-scale water electrolysis are presented. The current trends, limitations and perspectives for future developments are summarized for the diverse electrolysis technologies of water splitting, while the case of CO2/H2O co-electrolysis (for synthesis gas production) is also discussed.</dcterms:abstract>
+        <dc:date>01/2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0360128516300260</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-09-16 20:36:39</dcterms:dateSubmitted>
+        <bib:pages>1-35</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:03601285">
+        <prism:volume>58</prism:volume>
+        <dc:title>Progress in Energy and Combustion Science</dc:title>
+        <dc:identifier>DOI 10.1016/j.pecs.2016.09.001</dc:identifier>
+        <dcterms:alternative>Progress in Energy and Combustion Science</dcterms:alternative>
+        <dc:identifier>ISSN 03601285</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/Sapountzi et al. - 2017 - Electrocatalysts for the generation of hydrogen, o.pdf"/>
+        <dc:title>Sapountzi et al. - 2017 - Electrocatalysts for the generation of hydrogen, o.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/er.6983">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0363-907X,%201099-114X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zakaria</foaf:surname>
+                        <foaf:givenName>Zulfirdaus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kamarudin</foaf:surname>
+                        <foaf:givenName>Siti Kartom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>A review of alkaline solid polymer membrane in the application of &lt;span style=&quot;font-variant:small-caps;&quot;&gt;AEM&lt;/span&gt; electrolyzer: Materials and characterization</dc:title>
+        <dcterms:abstract>Electrochemical water splitting is one of the practical systems for green hydrogen production. This hydrogen processing is sustainable by the use of a water electrolysis cell known as an electrolyzer. In recent decades, the alkaline electrolyzer and the proton exchange membrane electrolyzer have entered the advanced commercial level for the hydrogen processing industry. Unfortunately, both techniques have many crucial issues, such as the handling of hydrogen, large structure, and expensive materials needed during the construction of the cell. Anion exchange membrane (AEM) electrolyzers have been recommended to address the worst of previous electrolyzer types due to the ability to use non-platinum and non-Nafion membrane materials, high hydrogen storage density, and the ability to build compact micro-cells on a large cell scale. A solid polymer alkaline membrane is a key component that influences the efficiency of the AEM electrolyzer, which reacts as an anion exchange membrane (AEM membrane). AEM membrane serves as an anode and cathode separator, ion transfer pathway, and electron flow barriers. This review paper explores polymeric materials and the characterization of an alkaline solid polymeric membrane used in an AEM electrolyzer. Several polymeric membranes that have been investigated by researchers for this application have been discussed. Critical characterizations such as ion exchange capability, ionic conductivity, chemical and mechanical stability, and cell performance durability are comprehensively addressed to guide future research and development in an alkaline solid polymeric membrane for application in an AEM electrolyzer.</dcterms:abstract>
+        <dc:date>2021-10-25</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A review of alkaline solid polymer membrane in the application of &lt;span style=&quot;font-variant</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/er.6983</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-09-16 20:36:42</dcterms:dateSubmitted>
+        <bib:pages>18337-18354</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0363-907X,%201099-114X">
+        <prism:volume>45</prism:volume>
+        <dc:title>International Journal of Energy Research</dc:title>
+        <dc:identifier>DOI 10.1002/er.6983</dc:identifier>
+        <prism:number>13</prism:number>
+        <dcterms:alternative>Int J Energy Res</dcterms:alternative>
+        <dc:identifier>ISSN 0363-907X, 1099-114X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/Zakaria and Kamarudin - 2021 - A review of alkaline solid polymer membrane in the.pdf"/>
+        <dc:title>Zakaria and Kamarudin - 2021 - A review of alkaline solid polymer membrane in the.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.springer.com/10.1007/s11663-010-9445-6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1073-5615,%201543-1916"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andersen</foaf:surname>
+                        <foaf:givenName>Dag Herman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Zhiliang L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>Study on the Anode-to-Cathode Distance in an Aluminum Reduction Cell</dc:title>
+        <dc:date>04/2011</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/s11663-010-9445-6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-09-16 20:36:45</dcterms:dateSubmitted>
+        <bib:pages>424-433</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1073-5615,%201543-1916">
+        <prism:volume>42</prism:volume>
+        <dc:title>Metallurgical and Materials Transactions B</dc:title>
+        <dc:identifier>DOI 10.1007/s11663-010-9445-6</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Metall Mater Trans B</dcterms:alternative>
+        <dc:identifier>ISSN 1073-5615, 1543-1916</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/Andersen and Zhang - 2011 - Study on the Anode-to-Cathode Distance in an Alumi.pdf"/>
+        <dc:title>Andersen and Zhang - 2011 - Study on the Anode-to-Cathode Distance in an Alumi.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nature.com/articles/s42003-019-0331-8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2399-3642"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Shaojie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Hongzhi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Fei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Xijia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Su</foaf:surname>
+                        <foaf:givenName>Haijia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Ping</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tan</foaf:surname>
+                        <foaf:givenName>Tianwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_14"/>
+        <dc:title>Metabolite-based mutualism enhances hydrogen production in a two-species microbial consortium</dc:title>
+        <dc:date>12/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nature.com/articles/s42003-019-0331-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-09-16 20:37:03</dcterms:dateSubmitted>
+        <bib:pages>82</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2399-3642">
+        <prism:volume>2</prism:volume>
+        <dc:title>Communications Biology</dc:title>
+        <dc:identifier>DOI 10.1038/s42003-019-0331-8</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Commun Biol</dcterms:alternative>
+        <dc:identifier>ISSN 2399-3642</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/14/Wang et al. - 2019 - Metabolite-based mutualism enhances hydrogen produ.pdf"/>
+        <dc:title>Wang et al. - 2019 - Metabolite-based mutualism enhances hydrogen produ.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Master Lib (16SEP)</dc:title>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-12-823034-3"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0360128516300260"/>
+        <dcterms:hasPart rdf:resource="https://onlinelibrary.wiley.com/doi/10.1002/er.6983"/>
+        <dcterms:hasPart rdf:resource="https://link.springer.com/10.1007/s11663-010-9445-6"/>
+        <dcterms:hasPart rdf:resource="http://www.nature.com/articles/s42003-019-0331-8"/>
+    </z:Collection>
+</rdf:RDF>
