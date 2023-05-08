@@ -821,7 +821,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tDmrafUSJl .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 5.4rem);
   }
 }
 .cid-tDmrafUSJl .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1169,9 +1169,25 @@ a {
 .cid-tDD0W2snMi .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
 }
+.cid-tDDjp6ptKE {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tDDjp6ptKE .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tDDjp6ptKE .row {
+  flex-direction: row-reverse;
+}
+.cid-tDDjp6ptKE img {
+  width: 100%;
+}
 .cid-tDD32YPDKC {
   padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-tDD32YPDKC .mbr-text,
@@ -1185,6 +1201,12 @@ a {
 .cid-tDD32YPDKC .mbr-text,
 .cid-tDD32YPDKC .link-wrap {
   color: #ffffff;
+}
+.cid-tDDjLb3QVW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #4479d9;
+  overflow: hidden;
 }
 .cid-tDmrafUSJl {
   z-index: 1000;
@@ -1325,7 +1347,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tDmrafUSJl .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 5.4rem);
   }
 }
 .cid-tDmrafUSJl .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1549,7 +1571,7 @@ a {
 .cid-tDCSe805K0 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #4479d9;
+  background-color: #ffffff;
 }
 .cid-tDCSe805K0 .mbr-text,
 .cid-tDCSe805K0 .mbr-section-btn {
@@ -1557,11 +1579,21 @@ a {
 }
 .cid-tDCSe805K0 .card-title,
 .cid-tDCSe805K0 .card-box {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-tDCSe805K0 .mbr-text,
 .cid-tDCSe805K0 .link-wrap {
   color: #ffffff;
+}
+.cid-tDCSe805K0 .card-box .mbr-text,
+.cid-tDCSe805K0 .mbr-section-btn {
+  color: #000000;
+}
+.cid-tDDjLb3QVW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #4479d9;
+  overflow: hidden;
 }
 .cid-tDmrafUSJl {
   z-index: 1000;
@@ -1702,7 +1734,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tDmrafUSJl .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 5.4rem);
   }
 }
 .cid-tDmrafUSJl .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2026,4 +2058,10 @@ a {
   padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
+}
+.cid-tDDjLb3QVW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #4479d9;
+  overflow: hidden;
 }
